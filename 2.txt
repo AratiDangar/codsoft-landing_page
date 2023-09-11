@@ -1,0 +1,4 @@
+-use html and css
+-learn create column,divide section,arrange items,header,footer
+-built impressive page
+-pay attention on alignments,padding,color palette,boxes
